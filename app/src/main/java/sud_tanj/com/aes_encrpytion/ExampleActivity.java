@@ -1,8 +1,7 @@
+package sud_tanj.com.aes_encrpytion;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
-import sud_tanj.com.android_aes.R;
+import android.support.v7.app.AppCompatActivity;
 
 /*
  * MIT License

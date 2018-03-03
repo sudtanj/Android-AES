@@ -1,4 +1,4 @@
-package sud_tanj.com.android_aes;
+package sud_tanj.com.aes_encrpytion;
 /*
  * MIT License
  *
