@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AES_Encrpytion.iml" filepath="$PROJECT_DIR$/AES_Encrpytion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aes_library/aes_library.iml" filepath="$PROJECT_DIR$/aes_library/aes_library.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

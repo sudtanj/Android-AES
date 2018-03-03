@@ -1,4 +1,4 @@
-package sud_tanj.com.aes_encrpytion;
+package sud_tanj.com.aes_library;
 /*
  * MIT License
  *
