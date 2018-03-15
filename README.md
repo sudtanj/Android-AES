@@ -2,7 +2,9 @@
 
 This project contains the implementation of (iOS Objective C, iOS Swift, Android, Java, Javascript, NodeJS, Web)
 
-Modification : adding jitpack.io support
+Modification : 
+- Adding jitpack.io support
+- Focus the code for android only
 
 Modified by Sudono Tanjung
 
